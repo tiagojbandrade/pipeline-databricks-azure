@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-carga",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd74cd98-fb16-47e0-8bff-0e32454601a9",
+		"tenantId": "2a03705b-4faf-4ab0-8963-c646ac2fbc50"
+	}
+}
